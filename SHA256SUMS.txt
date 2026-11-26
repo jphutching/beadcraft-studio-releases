@@ -1,2 +1,2 @@
-7b97db9b2720290d25d4d704fd2bf0e4fdf55b1bc08054b00a41a6e6885713e0  BeadCraftStudio-v0.2.3.apk
-3a6944f79ecbc373d7362ec208bb2d2a5d025d2ea02fc75254a3cea9f20b1d54  BeadCraftStudio-v0.2.3-qr.png
+9ce7e28415f3e54a7f0a667532d247a34093f295c69df9658ddd0048d62ded39  BeadCraftStudio-v0.2.4.apk
+9c8d209bcfd24e392ec03ea375c1e3f5160d7f20a8430ea06aabb7eb3c71a8a3  BeadCraftStudio-v0.2.4-qr.png
