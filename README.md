@@ -4,9 +4,11 @@
 >
 > Two things are open against the build this page is about (v0.2.4): a **Play Protect
 > warning** that has not been explained yet, and **catalogue rights** for the bead colour
-> data it ships. A newer build, 0.2.5, is signed and in review; it has not been installed on
-> a phone yet, so nothing is known about how Play Protect treats it. This page will say when
-> a build is one we recommend, and that is the only build this page will point at.
+> data it ships. A newer build, 0.2.5, is signed and has now been installed on a phone: the
+> install went through Android's own installer and Play Protect raised no panel for it. That
+> says nothing about the v0.2.4 warning and does not settle it. Nothing from 0.2.5 or later
+> is published; whether one is published, and when, is undecided. This page will say when a
+> build is one we recommend, and that is the only build this page will point at.
 
 BeadCraft Studio is an Android app for beadwork charts. Paint a loom / square-stitch chart
 with real bead codes, count it, work out what to buy from what you already have, save the
@@ -20,7 +22,7 @@ account, no ads and no analytics.
 |---|---|
 | newest release here | v0.2.4 (versionCode 9), published 2026-11-26 |
 | recommended for artists | **nothing, yet** — see the box above |
-| next build | 0.2.5 (versionCode 10), signed, in review, not published |
+| next build | 0.2.6 (versionCode 14), signed, not published; 0.2.5 (code 10) is superseded |
 
 The v0.2.4 files stay where they are. Earlier builds are not withdrawn and no asset has
 been removed; the box at the top is the recommendation.
